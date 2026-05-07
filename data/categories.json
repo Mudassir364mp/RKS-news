@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Politics",
+    "slug": "politics",
+    "color": "#dc2626"
+  },
+  {
+    "id": "2",
+    "name": "Business",
+    "slug": "business",
+    "color": "#059669"
+  },
+  {
+    "id": "3",
+    "name": "Technology",
+    "slug": "technology",
+    "color": "#2563eb"
+  },
+  {
+    "id": "4",
+    "name": "Sports",
+    "slug": "sports",
+    "color": "#ea580c"
+  },
+  {
+    "id": "5",
+    "name": "Entertainment",
+    "slug": "entertainment",
+    "color": "#9333ea"
+  }
+]

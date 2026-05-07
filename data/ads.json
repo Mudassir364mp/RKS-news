@@ -1,0 +1,17 @@
+[
+  {
+    "id": "header-ad-1",
+    "position": "header",
+    "type": "image",
+    "image": "https://via.placeholder.com/728x90?text=Premium+Ad+Space",
+    "link": "#",
+    "active": true
+  },
+  {
+    "id": "sidebar-ad-1",
+    "position": "sidebar",
+    "type": "html",
+    "code": "<div style=\"background:#e5e7eb;padding:1rem;text-align:center;height:250px;display:flex;align-items:center;justify-content:center;font-weight:bold;\">Sidebar Ad</div>",
+    "active": true
+  }
+]
